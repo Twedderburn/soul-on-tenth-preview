@@ -1,0 +1,2673 @@
+{
+ "Haircuts": [
+  {
+   "id": "D3KCQLG33OEMHHY5MBVPZYXI",
+   "name": "Men's Haircut",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 30,
+   "desc": "The title says it all for this cut!",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "I7EKOGYJDT7U7FFDBQDYXMKG",
+   "name": "Children's Haircut",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 30,
+   "desc": "The title says it all! Wash usually not included",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "FXAB36SXOFE2HITJVO2GNSNV",
+   "name": "Men's Haircut & Beard Trim",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 45,
+   "desc": "Need to trim your head and your face? This appointments for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh"
+   ]
+  },
+  {
+   "id": "PE3NBSCNV576VN6V5WDWXEEE",
+   "name": "Beard Trim",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 15,
+   "desc": "Need a little grooming? We got you!",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh"
+   ]
+  },
+  {
+   "id": "SZ2QXOXD6PHGBZHF6OZ32UJK",
+   "name": "Short Length Haircut",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 45,
+   "desc": "If your hair is no longer then your chin length, this cut is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "TXG3WQEM26FM4BXKUPIJALRV",
+   "name": "Long Length Haircut",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "If your hair is longer then chest length this cut is for you. Don't forget you can add a treatment to this service for a little more self-care during your appointment. Check out our treatment service list for a full description of available options.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "XDHV3CZ6EEHXCQUAOSTFHZ56",
+   "name": "Bang Trim",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 15,
+   "desc": "A quick appointment for only bang trims.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "YNMGDB6Y6SWNSFVOAZDFVRUW",
+   "name": "Medium Length Haircut",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "For chin length to chest length style cuts (e.g. short bob, long bob or layering). Don't forget you can add a treatment to this service for a little more self-care during your appointment. Check out our treatment service list for a full description of available options.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  }
+ ],
+ "Colouring/Blonding": [
+  {
+   "id": "6XDG7WDJS6Z73Y4WATU6MUA6",
+   "name": "Full Highlight (balayage and/or foil) Long",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 240,
+   "desc": "Highlights (or lowlights if you want more depth) applied all over the head. If your hair is longer then your shoulder length then this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "BJDVHYIKUKA33DCZWGMKW3SU",
+   "name": "Root Retouch",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 120,
+   "desc": "This service is to blend root growth without changing client's existing colour. Root application only. This service is not for blonding services.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "2HJGTZO47U36NRTREZYX2EMX",
+   "name": "Partial Highlights (balayage and/or foil) Long",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 180,
+   "desc": "Highlights (or lowlights if you want more depth) painted just on the top of head and around the face. If your hair is past shoulder length then this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "7XT557QPCF7BK75FEQZ44OA2",
+   "name": "Colour (Men's, and short hair only)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 90,
+   "desc": "This appointment is for pixie style hair length and men's short hair styles only. Can include one solid colour or lightening (10-15 foils, global blonde on extremely short hair etc). If unsure please call our salon for more info.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "7KHXBNDJ7ZFZ42V7NS663AHS",
+   "name": "Global Blonde Retouch",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 150,
+   "desc": "3-4 week touchup for regrowth. Please note anything over 3-4 weeks of regrowth will be a colour correction service.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "C24GLCHQY33FUBWV7QB5XNRQ",
+   "name": "Colour Correction",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 240,
+   "desc": "Color correction is a treatment used to fix an unwanted hair colour. The type of color correction will depend on what the desired look you are wanting to achieve. This service can also be booked to achieve fashion colours (pink, blue, etc.) as well as platinum blonde regrowth that is more then 3-4 weeks. It is suggested to book a consultation prior to booking this service.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "DKEDYP7BHWW56MYD6NIFK5UJ",
+   "name": "Gloss/Toner Long",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 120,
+   "desc": "A semi permanent toner/gloss is applied to previously coloured hair to neutralize brass, or darken the hair. This is a great way to refresh your look and shine without a full colour/blonding appointment. If your hair is longer then shoulder length then this service is for you. Please note this service is not a lightening service.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "DKLWR4ZOMOR3MVTFRTPDGHXP",
+   "name": "Colour Consultation",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Please book prior to colour correction, and global blonding services. This consultation will help our stylists know the look you are wanting to achieve and book your appointment accordingly.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "GKTLPLTVD7DHOXOIN2MV4O3S",
+   "name": "Partial Highlights (balayage and/or foil)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 150,
+   "desc": "Highlights (or lowlights if you want more depth) painted just on the top of head and around the face. If your hair is no longer then shoulder length this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "JM4Y4TROOYYGNQCAQUD6L53G",
+   "name": "Global Blonde",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 240,
+   "desc": "A full transformation, platinum blonde service. For new clients please book a colour consultation prior to booking this service.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "P7QBQQRYFWTOJCODBLBVNJBO",
+   "name": "Solid Colour",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 120,
+   "desc": "Also known as one color all over (no highlights). If your hair is shoulder length or shorter this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "T6CDFUXEJWDGQVTH77E56JDT",
+   "name": "Gloss/Toner",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 90,
+   "desc": "A toner/gloss is applied to previously coloured hair to neutralize brass, or darken the hair. This is a great way to refresh your look and shine without a full colour/blonding appointment. If your hair is no longer then shoulder length then this service is for you. Please note this service is not a lightening service.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "UHYNQJKEB3OV5UQYVMJOVG5J",
+   "name": "Full Highlight (balayage and/or foil)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 180,
+   "desc": "Highlights (or lowlights if you want more depth) applied all over the head. If your hair is short to shoulder length please select then this appointment is for you. If your hair is longer please choose this service for long length.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "VGWFMIEQQSYBJKEXSXLMHHNF",
+   "name": "Solid Colour Long",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 150,
+   "desc": "Also known as one color all over (no highlights). If your hair is past shoulder length this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  }
+ ],
+ "Styling": [
+  {
+   "id": "AITVZZBFNS65WGWIPMFT53SZ",
+   "name": "Updo (half head of hair)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "Includes, curling and pinning half of the hair into updo style. Please come with dry hair washed 1-2 days prior to appointment to help achieve maximum hold of style.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Mackenna"
+   ]
+  },
+  {
+   "id": "ANYKPHHL5PW5PB4JDP2QA446",
+   "name": "Updo",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "Includes, curling and pinning hair into updo style. Please come with dry hair washed 1-2 days prior to appointment to help achieve maximum hold of style.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Mackenna"
+   ]
+  },
+  {
+   "id": "E67AZVS6OTFH3XKAJ5XXRYTP",
+   "name": "Perm",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 180,
+   "desc": "A perm is a chemical treatment that alters the structure of your hair follicle to transform straight hair into wavy or curly hair. A perm isn't completely permanent\u2014it typically in and around six months.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Mackenna"
+   ]
+  },
+  {
+   "id": "LALE6DQHB2ED7GA6QTJFRPFK",
+   "name": "Wash, Treatment & Style",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 75,
+   "desc": "Includes shampoo, treatment, blow-dry, and curling or straightening.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  },
+  {
+   "id": "VQCQZZ4GLTH32VIYESNTBTX2",
+   "name": "Wash & Style",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "Includes shampoo/condtioner, blow-dry, and curling or straightening.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Lindsey",
+    "Andrea",
+    "Libbey",
+    "Kayla",
+    "Kaleigh",
+    "Mackenna",
+    "Taylor"
+   ]
+  }
+ ],
+ "In-Salon Hair Treatments": [
+  {
+   "id": "Q2UO3UJXBGAJRUYBIXI4RXXJ",
+   "name": "Scalp Top Drop",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "An ultra concentrated professional in-salon treatment with instant results. Soothe, protect and balance the scalp, and leave hair shinier and more manageable. Reduce scalp irritation and dryness with Top Drop Scalp Concentrate. PRODUCT INFORMATION In-salon treatment that soothes and protects the scalp, leaving it balanced and calm Eucalyptus and peppermint oils create a protective barrier, reducing itchiness and inflammation Balances the scalp, laying the foundation for healthier hair Improves softness and shine whilst helping to detangle and improve manageability Recommended for all clients, especially those with dry, itchy or colour-irritated scalps Ideal for all clients, especially those with itchy, dry, colour-irritated scalps. Top Drop Scalp Concentrate instantly cools, soothes and protects the scalp by reducing inflammation, irritation and dryness. Hair is left shinier and more manageable, while the scalp is balanced and oil production is regulated, setting the foundation for healthier hair. Key ingredients of eucalyptus and peppermint oils create protective barrier on the scalp, while hydrogenated castor oil soothes and calms the scalp. Sanicapyl reduces inflammation, dryness and irritation, and leaves hair soft and shiny.",
+   "staff": [
+    "Lizanne",
+    "Cheryl",
+    "Lindsey",
+    "Chelsea",
+    "Andrea",
+    "Tamica",
+    "Jenna",
+    "Libbey",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "QANRCKXDN5DBJZKIO5SUKPEB",
+   "name": "Platinum Blonde Top Drop",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "An ultra concentrated professional in-salon treatment with instant results. Neutralize unwanted brassiness and yellow tones, improve hair condition and add shine with Evo Top Drop Platinum Blonde Concentrate. PRODUCT INFORMATION In-salon treatment that brightens and refreshes colour-treated blonde hair for up to 6 washes Instantly neutralises unwanted brassiness and yellow tones Improves softness and shine whilst helping to detangle and improve manageability Recommended for clients with dull, dry, colour-treated blonde hair Perfect for clients with dull, dry, colour-treated blonde hair, Top Drop Platinum Blonde Concentrate instantly neutralizes unwanted brassiness and yellow tones, whilst improving hair condition and adding shine. To help keep blonde hair looking toned and fresh, clients can follow up their Top Drop in-salon treatment with the Evo Fabuloso Platinum Blonde Toning Shampoo and Colour Boosting Treatment once per week.",
+   "staff": [
+    "Lizanne",
+    "Cheryl",
+    "Lindsey",
+    "Chelsea",
+    "Andrea",
+    "Tamica",
+    "Jenna",
+    "Libbey",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "T4HCFXMZZLSM7JTLLRGH2KTN",
+   "name": "Hydrate Top Drop",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "An ultra concentrated professional in-salon treatment with instant results. Hydrate, reduce frizz, improve hair condition and add shine with Evo Top Drop Hydrate Concentrate. PRODUCT INFORMATION In-salon treatment that hydrates hair quickly and deeply Instantly seals hair cuticle to prevent moisture loss and frizz Improves softness and shine whilst helping to detangle and improve manageability Protects colour and helps maintain it's vibrancy for up to 12 washes Recommended for clients with dry colour-treated hair Perfect for clients with dry, colour-treated hair, Top Drop Hydrate Concentrate deeply hydrates the hair, helping to reduce frizz by 48% and improve overall condition and shine. To help maintain hydrated results at home, follow up with the Evo The Great Hydrator Moisture Mask once per week.",
+   "staff": [
+    "Lizanne",
+    "Cheryl",
+    "Lindsey",
+    "Chelsea",
+    "Andrea",
+    "Tamica",
+    "Jenna",
+    "Libbey",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "YUAXABLUUVEM2RG5REGYMNEQ",
+   "name": "Repair Top Drop",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "An ultra concentrated professional in-salon treatment with instant results. Repair, strengthen, improve hair condition and add shine. PRODUCT INFORMATION In-salon treatment that instantly repairs and strengthens the hair Helps to reduce breakage and improve combability Improves softness and shine whilst helping to detangle and improve manageability Protects colour and helps maintain it's vibrancy for up to 12 washes Recommended for clients with weak, brittle, colour-treated hair Perfect for clients with weak, brittle, colour-treated hair, Top Drop Repair Concentrate instantly repairs and strengthens the hair, helping to improve combability by 83% when dry. To help repair and strengthen hair at home, follow up with Evo Mane Attention Protein Treatment once per week.",
+   "staff": [
+    "Andrea",
+    "Chelsea",
+    "Cheryl",
+    "Jenna",
+    "Lindsey",
+    "Lizanne",
+    "Tamica",
+    "Libbey",
+    "Kayla"
+   ]
+  }
+ ],
+ "Hair Extentions": [
+  {
+   "id": "4YBWR3TUHY44K5BWCGSLFRGE",
+   "name": "Weft Install (2 rows)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 150,
+   "desc": "Two row install/reinstall of sew in wefts. If needed don't forget to add a weft wash to give your extensions a good refresh before your reinstall.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  },
+  {
+   "id": "7W4XZFYYHVDSYYMBUCLHK32O",
+   "name": "Weft Wash",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 30,
+   "desc": "This is an add on service for your reinstall appointments. If your hair extensions need a good wash and condition then this service is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  },
+  {
+   "id": "FB5Q4UCAVYU43GCKXDFJ2JR6",
+   "name": "Weft Consultation",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Come in and let us know what your looking to achieve with your extension install. At this appointment your stylist will help you decide what amount of hair you will need and how many rows for your desired look.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  },
+  {
+   "id": "H6V7EGZKBWOG23SU6VN2K7ZJ",
+   "name": "Weft Removal",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 60,
+   "desc": "When it's time to go back to au natural, removal is for you.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea"
+   ]
+  },
+  {
+   "id": "IAIJKWV2JWL5UHHS2X2VAL7V",
+   "name": "Weft fix",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "If you are having an issue with one of your sew in wefts then this service is for you. Please note this is a short appointment. This is not for reinstallation but only a minor adjustment needed.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  },
+  {
+   "id": "RJ4L2J5E4P6JXM2ZP5K3UCMA",
+   "name": "Weft Install (1 row)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 90,
+   "desc": "One row install/reinstall of sew in wefts. If needed don't forget to add a weft wash to give your extensions a good refresh before your reinstall.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  },
+  {
+   "id": "VNZZCXQHROZX2Z6SO3OJZEHD",
+   "name": "Weft Install (3 rows)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Our stylists run their own chairs, prices vary depending on stylist, please contact us for more pricing info.",
+   "mins": 180,
+   "desc": "Three row install/reinstall of sew in wefts. If needed don't forget to add a weft wash to give your extensions a good refresh before your reinstall.",
+   "staff": [
+    "Jenna",
+    "Lizanne",
+    "Chelsea",
+    "Andrea",
+    "Libbey"
+   ]
+  }
+ ],
+ "Nails": [
+  {
+   "id": "A2OC2QJC77TDKAD2EBNKI6Q5",
+   "name": "Deluxe Gel Fill",
+   "cents": 8000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "Our Deluxe fill is short to medium in length, includes up to 4 different colours including glitter, french tips, and nail art on up to 4 nails.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole"
+   ]
+  },
+  {
+   "id": "DBUVHBYCQUDYBEAAD7QL4CY6",
+   "name": "Deluxe New Set of Gels",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "Needing a new set of nails? Look no farther we have some of the most talented nail artists in the city! Our Deluxe new set is short to medium in length, includes up to 4 different colours including glitter, french tips, and nail art on up to 4 nails.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole"
+   ]
+  },
+  {
+   "id": "QFEGBEQP66I762XDXBOG7FJY",
+   "name": "Basic Gel Fill",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "Our Basic fill is short to medium in length, includes up to two different colours including glitter. This service does not include any nail art or French tips.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "4YF4XBRDZYNIJKREEGZGFERA",
+   "name": "Gel Polish Manicure",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Tired of your nail polish not lasting? Don't want gel nails but still want beautifully manicured hands? Then this appointment is for you. Includes cuticle care, shaping, and gel polish application.",
+   "staff": [
+    "Angela",
+    "Chrissy",
+    "Sam",
+    "Amy",
+    "Jenique",
+    "Nichole",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "AGZV45TZLE27FTEIDCKB2OJJ",
+   "name": "Nail Fix",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Prices vary per artist and as per service, please contact us for more pricing info.",
+   "mins": 15,
+   "desc": "Have you broken one of your beautiful nails? Don't worry we can fix you up!",
+   "staff": [
+    "Nichole",
+    "Angela",
+    "Erika",
+    "Chrissy",
+    "Sam",
+    "Amy"
+   ]
+  },
+  {
+   "id": "75PLFADXORBMFYOC7FKQ5452",
+   "name": "Gel Removal",
+   "cents": 3000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Needing your gel polish or nails removed? If so this appointment is for you.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole",
+    "Erika"
+   ]
+  },
+  {
+   "id": "NWDKU7CINSY4PMXNV4ETHO72",
+   "name": "Foreign Fill",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "$80 and up, please contact artist for more pricing info.",
+   "mins": 120,
+   "desc": "Are you new to Soul and our nail artists? Have another artists work currently on your beautiful little fingers? We might need some extra time during your appointment. Please book this service if you are switching techs and have a current set of nails on.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole"
+   ]
+  },
+  {
+   "id": "QTG7HOBIZKUSWOKLCGH2IN3E",
+   "name": "Spa Manicure",
+   "cents": 4500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Cuticle care, shaping, hand/arm massage, and nail polish application. Please note this appointment does not include gel polish.",
+   "staff": [
+    "Sam",
+    "Nichole",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "SC7GHAM47VXWBMLVAPFOW5RA",
+   "name": "Basic New Set of Gels",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "Needing a new set of nails? Look no farther we have some of the most talented nail artists in the city! Basic new set is short to medium in length, includes up to two different colours including glitter. This service does not include any nail art or French tips.",
+   "staff": [
+    "Angela",
+    "Sam",
+    "Amy",
+    "Nichole",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "YZTUIJQB5KDCP7OXZVB6MMJB",
+   "name": "Boujee New Set of Gels",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "$110 and up, please contact artist for more pricing info.",
+   "mins": 165,
+   "desc": "Needing a new set of nails? Look no farther we have some of the most talented nail artists in the city! Our Boujee new set is short to x-long in length, includes unlimited colours, and nail art on all nails.",
+   "staff": [
+    "Sam",
+    "Amy"
+   ]
+  },
+  {
+   "id": "Z4NQB7Y5KFDTMKTQUNJGBXCA",
+   "name": "Boujee Gel Fill",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "$90 and up, please contact artist for more pricing info.",
+   "mins": 165,
+   "desc": "Our Boujee fill is short to x-long in length, includes unlimited colours, and nail art on all nails.",
+   "staff": [
+    "Sam",
+    "Amy"
+   ]
+  }
+ ],
+ "Pedicures": [
+  {
+   "id": "4Z3IVXKIZRRSBTZUJGIGVKYR",
+   "name": "Gel Polish Spa Pedicure",
+   "cents": 7500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "Needing a little self care? Who likes to care for their own toes? Let us do the work and you sit back and relax. Includes foot soak, cuticle care, shaping/clipping, exfoiliation, massage and gel polish application.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Amy",
+    "Jenique",
+    "Nichole",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "AWNX5QZ2CTNUVVKV5EEFPHWB",
+   "name": "Gel Polish Pedi (No soak or massage)",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Needing a little self care? Who likes to care for their own toes? Let us do the work and you sit back and relax. Includes shaping/clipping, cuticle care, and gel polish application. Please note this service does not include a foot soak, exfoliation or massage.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Amy",
+    "Jenique",
+    "Nichole",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "KXOFMUFIDT2ZBKE2I6F6TXIM",
+   "name": "Spa Pedicure",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "Needing a little self care? Who likes to care for their own toes? Let us do the work and you sit back and relax. Includes foot soak, cuticle care, shaping/clipping, exfoiliation, massage and nail polish application. Please note this service does not include gel polish.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Amy",
+    "Jenique",
+    "Nichole",
+    "Nicole",
+    "Ella"
+   ]
+  }
+ ],
+ "Lashes": [
+  {
+   "id": "RLG4SPFAA7WA4WAA4X4NP52M",
+   "name": "Hybrid Lash Extensions (New Set)",
+   "cents": 14000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "Hybrid extensions are a mix of classic lashes and volume lash fans. The combination creates a customized fluffy but textured look that is more natural than a complete volume set.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "GOV53OWQT5NDOR5NM2FUDWDO",
+   "name": "Hybrid Lash Fill (1 week)",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the past 1-10 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "NSHGFOPSL25A6SLXJH4XDIFB",
+   "name": "Hybrid Lash Fill (2 weeks)",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 2 week fill please only book this if you have had your lashes done in the past 11-17 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "X3NQ2YFECCVTNC2BJPJOMFV4",
+   "name": "Hybrid Lash Fill (3 weeks)",
+   "cents": 8000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 3 week fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "ZUT7CIM6C5GNTGVW4PUKVWRF",
+   "name": "Hybrid Lash Fill (4 weeks)",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 4 week fill please only book this if you have had your lashes done in the past 25-30 days, and have a minimum of 40% of your extensions remaining. If over 30 days (or your lashes are looking sparse), please contact your artist to discuss if a fill or a new set will be needed.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "BEDE23R25GYTF2TXWGVGHTQW",
+   "name": "Volume Lash Extensions (New Set)",
+   "cents": 16000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "Volume lashes are where multiple lighter lashes create a volume lash fan, the fan is applied to each individual natural lash. The volume fan customized is to each client.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "QQMF3F5ZDRYVJQWJ5AWFFCOE",
+   "name": "Volume Lash Fill (1 week)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the past 1-10 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "LZCGDPCDKMOSVJHKLBDJDXBT",
+   "name": "Volume Lash Fill (2 weeks)",
+   "cents": 8000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 2 week fill please only book this if you have had your lashes done in the past 11-17.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "7NFI5FZV36KJR36MLGPOLFH4",
+   "name": "Volume Lash Fill (3 weeks)",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 3 week fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "ZKJA7HYDXYZF6RM5MG3JA7WO",
+   "name": "Volume Lash Fill (4 weeks)",
+   "cents": 11000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 4 week fill please only book this if you have had your lashes done in the past 25-30 days, and have a minimum of 40% of your extensions remaining. If over 30 days (or your lashes are looking sparse), please contact your artist to discuss if a fill or a new set will be needed.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "3N3K6D46KDZ6ERJJ2BDGQKKA",
+   "name": "Lash Lift & Tint",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "The perfect dynamic duo to elevate, curl, and colour your lashes in just one convenient appointment.",
+   "staff": [
+    "Nichole",
+    "Sam",
+    "Ashley",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "AM3FTCMROMXMTYJQCC2T36JC",
+   "name": "Classic Lash Fill (1 week)",
+   "cents": 4500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the last 1-10 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "ABUP7VK5ES4ERN25E5TVX7JS",
+   "name": "Classic Lash Fill (4 weeks)",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 4 week fill please only book this if you have had your lashes done in the past 25-30 days, and have a minimum of 40% of your extensions remaining. If over 30 days (or your lashes are looking sparse), please contact your artist to discuss if a fill or full set will be needed.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "3AKVBPZWQT2EXQIYZI2MQGKK",
+   "name": "Lash Fill (New Client)",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": "Pricing will vary",
+   "mins": 90,
+   "desc": "Already have your lashes done but looking to switch artists? Book this option to allow enough time for your lashes as new client fills may take longer due to working with someone else's work. Pricing starts at $75 and can vary depending on how many lashes are remaining when you arrive. Also what type of lash extensions you have currently. All prices will be discussed at the appointment and a thorough consultation done prior to commencing your fill.",
+   "staff": [
+    "Sam",
+    "Ashley"
+   ]
+  },
+  {
+   "id": "2GJ6YM6PVEMAN4H2YFVNQY4L",
+   "name": "YY Classic Lash Fill (1 week)",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the past 1-10 days.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "DE4Y5MEYO3CNEPET52VGGMV5",
+   "name": "Mega Volume Lash Fill (1 week)",
+   "cents": 7500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the past 1-10 days.",
+   "staff": [
+    "Kayla"
+   ]
+  },
+  {
+   "id": "GEGBFRWOIG4YVMCNS4PE5WYM",
+   "name": "Classic Lash Fill (2 weeks)",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 2 week fill please only book this if you have had your lashes done in the last 11-17 days.",
+   "staff": [
+    "Sam",
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "KABF6OPZPPVB2TP7EMFI5IF2",
+   "name": "Classic Lash Extensions (New Set)",
+   "cents": 12000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "Classic lash extension are simple, beautiful, natural-looking lash extensions. They are applied on a 1:1 ratio, meaning one extension on one natural lash.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "N6TYWTUGHFS7C5BZ2IUQFVEE",
+   "name": "YY Classic Lash Extensions (New Set)",
+   "cents": 13000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "These lashes are applied like a classic but create a volume effect which is whispy. Each fan is made up of four lash strands which have a long base and fan out into two halves to create the Y shapes, hence the name YY.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "O7HTP4WJJZA7FT5ERZGP65PH",
+   "name": "YY Classic Lash Fill (4 weeks)",
+   "cents": 9500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 4 week fill please only book this if you have had your lashes done in the past 25-30 days, and have a minimum of 40% of your extensions remaining. If over 30 days (or your lashes are looking sparse), please contact your artist to discuss if a fill or a new set will be needed.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "OVOXQQJ7LAZDO57CYASXULBZ",
+   "name": "Lash Extension Removal",
+   "cents": 3000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "If you need your lashes removed then this service is for you.",
+   "staff": [
+    "Sam",
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "PPQAVFXPULQQSSUOXQPNUUCB",
+   "name": "Wet Set Lash Fill (1 week)",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "To be considered a 1 week fill please only book this if you have had your lashes done in the past 1-10 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "PSH63Z73CEYSMHFKCOZENVEG",
+   "name": "Mega Volume Lash Extensions (New Set)",
+   "cents": 18500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 135,
+   "desc": "A more advanced type of volume lashes. This style uses light and thin extensions to create a fuller look. This technique involves creating a very full volume fan, which is applied to each natural lash.",
+   "staff": [
+    "Kayla"
+   ]
+  },
+  {
+   "id": "PTOYRHSW2AJMF7CNZF4AJ4IH",
+   "name": "Mega Volume Lash Fill (3 weeks)",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 3 week lash fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Kayla"
+   ]
+  },
+  {
+   "id": "Q4UOS5JLDFBKNHI22VEIU3AD",
+   "name": "YY Classic Lash Fill (3 weeks)",
+   "cents": 8000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 3 week fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "Q6BINDWSBTJPJ7SHQ6AEZRV3",
+   "name": "Wet Set Lash Fill (4 weeks)",
+   "cents": 10500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 4 week fill please only book this if you have had your lashes done in the past 25-30 days, and have a minimum of 40% of your extensions remaining. If over 30 days (or your lashes are looking sparse), please contact your artist to discuss if a fill or a new set will be needed.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "RSXAQJ4AP4TJBAM7U5VYPBYW",
+   "name": "Wet Set Lash Extensions (New Set)",
+   "cents": 15000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 120,
+   "desc": "The wet-look lash extensions are achieved by applying volume lashes without fanning them out prior to adhering to the natural lash.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "RZNJW2SRPFIGZAU6V2GCE5MP",
+   "name": "Wet Set Lash Fill (3 weeks)",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 3 week fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "TWZIKNEVVH2FG7REAVKAEADT",
+   "name": "Mega Volume Lash Fill (2 weeks)",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "To be considered a 2 week fill please only book if you have had your lashes done in the past 11-17 days.",
+   "staff": [
+    "Kayla"
+   ]
+  },
+  {
+   "id": "VMAGZGJH625ML6NY5KXXBQTE",
+   "name": "Lash Lift",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "A semi-permanent procedure that boost your natural lashes from the root, giving them a lifted, lengthened appearance.",
+   "staff": [
+    "Nichole",
+    "Sam",
+    "Ashley",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "WOZMQJ7ZFTIQMOFLC3O72KDC",
+   "name": "Classic Lash Fill (3 weeks)",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 3 week fill please only book this if you have had your lashes done in the past 18-24 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  },
+  {
+   "id": "YANDVJLXYTNIAVGENU23K5JA",
+   "name": "YY Classic Lash Fill (2 weeks)",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 2 week fill please only book this if you have had your lashes done in the past 11-17 days.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "ZMQE46AQ625NE2VVRFJFLR7H",
+   "name": "Lash Tint",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "A process in which dye is applied to the eyelashes to darken them. This can give the appearance of darker, fuller lashes without the need of mascara. Check out our lash lift and tint combo for optimal results.",
+   "staff": [
+    "Nichole",
+    "Sam",
+    "Ashley",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "ZOD6ZLH4QLJ734A67XQJUBZE",
+   "name": "Wet Set Lash Fill (2 weeks)",
+   "cents": 7500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "To be considered a 2 week fill please only book this if you have had your lashes done in the past 11-17 days.",
+   "staff": [
+    "Ashley",
+    "Kayla"
+   ]
+  }
+ ],
+ "Brows": [
+  {
+   "id": "F24CJCPKPY2Z76EWG2AINQV4",
+   "name": "Brow Lamination",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Prices vary per artist.  Please contact us for more pricing info. ",
+   "mins": 55,
+   "desc": "Brow lamination is a chemical treatment process to the eyebrow hair, which manipulates the brows to lie flat and lifted, making it easier to style everyday. Results can last for up to six to eight weeks.",
+   "staff": [
+    "Nichole",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "GAAMHY2IWLU6WF23PPZIDCIB",
+   "name": "Brow Tint",
+   "cents": 1500,
+   "ptype": "fixed",
+   "pdesc": "Prices vary per artist, please contact us for more pricing info.",
+   "mins": 15,
+   "desc": "An eyebrow tint, is a semipermanent dye that darkens and defines your brow hairs before slowly fading. Eyebrow tinting is temporary and painless. Please note that this services does not include shaping.",
+   "staff": [
+    "Nichole",
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Kayla",
+    "Ella"
+   ]
+  },
+  {
+   "id": "MJIKZHFLEBWWUZRCCSUHPMOQ",
+   "name": "Brow Tint & Wax",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Prices vary per artist, please contact us for more pricing info.",
+   "mins": 30,
+   "desc": "The best of both worlds! Shaping of the brows using wax, as well as a semi-permanent tint to darken the look of your brows. For full description of each service please see our brow menu.",
+   "staff": [
+    "Jenna",
+    "Nichole",
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Kayla",
+    "Ella"
+   ]
+  },
+  {
+   "id": "MSXQXABQXJ6ANW62OE6TE57N",
+   "name": "Brow Shape & Tint (Waxless)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Prices vary per artist.  Please contact us for more pricing info. ",
+   "mins": 45,
+   "desc": "If waxing isn't for you we have you covered. All the same brow love just without wax!",
+   "staff": [
+    "Sam",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "QKEXR2WGS2IGGVJ564VFPL72",
+   "name": "Brow Shape (Waxless)",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 20,
+   "desc": "If brow waxing isn't for you we have you covered. Brow shaping is a waxless procedure achieving the same look as brow waxing.",
+   "staff": [
+    "Sam",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "WN3XKOUN7GZN5SH6QTOAJ4NC",
+   "name": "Brow Henna",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Prices vary per artist.  Please contact us for more pricing info. ",
+   "mins": 75,
+   "desc": "If your brows need a lot of filling in, then henna might be a great choice for you! Henna stains not only the hair but also the skin under the hairs, giving you a fuller look for longer. Included in this service is brow shaping.",
+   "staff": [
+    "Tamica",
+    "Sam",
+    "Jenique"
+   ]
+  }
+ ],
+ "Facials": [
+  {
+   "id": "5Y3HVQQGEV27J7FYPMQURRFO",
+   "name": "BioRePeel & Facial",
+   "cents": 18000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 60,
+   "desc": "All the benefits of the BioRePeel as well as the relaxation of a facial treatment. Choose your mask of choice, with a scalp massage and give yourself all the pampering while rejuvenating the skin.",
+   "staff": [
+    "Ashley"
+   ]
+  },
+  {
+   "id": "66OUX5FEXFHKPGDUEPHDMH4T",
+   "name": "Custom to You Facial (1.5 hours)",
+   "cents": 12500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 90,
+   "desc": "This facial is a skin-investment. Advanced and targeted to your skin goals and needs to put your best face forward. Whether your focus is acne, hydration, anti-aging, brightening, deep cleansing or a combination this service is for you!",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "6C5BULUWBP7URVKCNCV2MC63",
+   "name": "Extractions (Add-On)",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 10,
+   "desc": "Add this free treatment onto your facial to gently extract congested pores. This is the perfect add-on if you are struggling with congested skin, blackheads, whiteheads, closed comedones, pimples, etc.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "45MGGMPVLCOYHRIFZXTC65OH",
+   "name": "Chemical Peel (Add-On)",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Add a chemical peel to any facial service for optimal results. Check out Chemical Peel in our service menu for a full description on this treatment.",
+   "staff": [
+    "Jenique",
+    "Amy",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "2XIBNN2BADQ5UCO6RM434IMD",
+   "name": "Extractions Plus (Add-On)",
+   "cents": 1500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "This add-on service includes multiple warm towels, and an extended period of time spent on extractions. This is perfect for people struggling with congested skin, blackheads, whiteheads, closed comedones and pimples. This service MUST be added onto a facial treatment (facial, dermaplaning, chemical peel) with the same service provider.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "C3WMPH4HWN5TSTIWK4GWH24B",
+   "name": "Dermaplaning",
+   "cents": 7500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "A gentle treatment that exfoliates your skin removing dead skin cells, and vellus hair (peach fuzz). Check out our facial treatment add on services to add a mask for ultimate hydration.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "CNW76OZHCFGSL76PZALENADJ",
+   "name": "Exfoliating Booty Treatment",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Skin care doesn't end at the face. Treat your bottom to all the benefits of a facial, customized to your skins needs.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "ECEOLMAML64HIM5GILX5XCMF",
+   "name": "LED & Sheet Mask Therapy (Add-On)",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 20,
+   "desc": "Add a luxurious sheet mask packed with nutrient rich serums that is massaged into the skin and then followed with an LED Mask session to your service. LED therapies can stimulate collagen and elastin production, reduce skin inflammation and help kill bacteria contributing to acne.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "EVIDJL7DPOX4JS2ZCOOG7BCX",
+   "name": "Hot Stone (Add-on)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Add a hot-stone treatment to add a little extra bliss.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "FA4J2KDVFSJISG7J4MFNA4PT",
+   "name": "Back Treatment",
+   "cents": 11000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 60,
+   "desc": "A facial for your back? Yes please! Experience bliss during this exfoliating back treatment using light massage techniques. This treatment is for all skin types but is a great way to help acne prone skin for us adults as well as our teens!",
+   "staff": [
+    "Ashley",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "G64QQ7JC4533JMLE7BVE7EMU",
+   "name": "Gua-Sha Facial Massage (Add-On)",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 20,
+   "desc": "Add to your facial service this massage technique designed to relieve tension in the muscles of the face, boost blood circulation, and encourage lymphatic drainage to banish puffiness. This technique helps break up fascia (the connective tissue that hugs our muscles) that can sometimes interfere with optimal circulation.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "IHA4UYD7RLMJO4NB5NQH2MOB",
+   "name": "Face Lift Treatment (Add-On)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Add this unique treatment to your facial that utilizes a micro-current device that amplifies hydration, aids in lymph drainage, as well as firms and lifts the skin.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "JNJFKWNKLNM6SSNFCDPR3ZCZ",
+   "name": "LED Mask Therapy (Add-On)",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Add a LED Mask session to your service. LED therapy helps stimulate collagen and elastin production, reduce skin inflammation and help kill bacteria contributing to acne.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "KO3UVPYMU3BFGAHW3THLDRMT",
+   "name": "Dermaplaning (Add-On)",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Add dermaplaning to any other facial service to amplify your results. Check out our dermaplaning treatment in the service menu for a complete description of dermaplaning.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "QRSD5RCCD57INSFFSTMA6RKI",
+   "name": "Hot Stone Body Treatment",
+   "cents": 9500,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 75,
+   "desc": "Relax and treat your body to a hot stone massage. Soothing heated stones loosen sore muscles and help stimulate circulation.",
+   "staff": [
+    "Ashley",
+    "Jenique"
+   ]
+  },
+  {
+   "id": "U37HNVCBAFHNCRZM43N65OIA",
+   "name": "Custom to You Facial (1 hour)",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "A custom 1 hour facial designed to treat any and all skin care concerns you are facing. Whether your focus is acne, hydration, anti-aging, brightening, deep cleansing or a combination this service is for you!",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "UPE7CPGY5LC2LTLMURYTX3RH",
+   "name": "Chemical Peel",
+   "cents": 9500,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 35,
+   "desc": "A medium depth chemical peel providing exfoliation to improve fine lines, wrinkles, scars, congested skin, blackheads, minor acne, pigmentation and skin texture.",
+   "staff": [
+    "Ashley",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "WNRRQGNNEHUBYXMMU4BOFOFC",
+   "name": "Skin Consultation",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 20,
+   "desc": "A complimentary skin consultation to learn about your skin type, and the best skin care products and treatments for you.",
+   "staff": [
+    "Jenique",
+    "Ashley",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "XAILLXVZL6TTSEOIAY7BE35Z",
+   "name": "Exfoliating Body Wrap Treatment",
+   "cents": 13500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 75,
+   "desc": "Treat your body from head to toe. Service includes cleanse, exfoliate, mask, and moisturizing. Customized to your skin needs.",
+   "staff": [
+    "Ashley",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "Z5FYEM7JKIYZUZCBGUGSH2Q2",
+   "name": "Jelly Mask (Add-On)",
+   "cents": 3000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Add on a customized Hydro Jelly Mask to any facial or lash service for a quick boost of hydration for your skin.",
+   "staff": [
+    "Ashley",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "ZFN74PHGUYWPOBP3MI6A545U",
+   "name": "BioRePeel",
+   "cents": 15000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 30,
+   "desc": "BioRePeel is an advanced peel treatment that uses bio-stimulation and active ingredients to address various skin concerns including acne, sun damage, fine lines and pore size. This peel can be used on face, neck, chest, hands and back to help rejuvenate the skin.",
+   "staff": [
+    "Ashley"
+   ]
+  }
+ ],
+ "Waxing": [
+  {
+   "id": "5FBDUWZBUF2X3YYBBLIQPYO5",
+   "name": "Brazilian Wax (Repeat)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "For repeat clients only. If you are a new client please book Brazilian (New) in our service menu.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "AOUOYDCRFYWDNEIGLJNQS35D",
+   "name": "Brazilian Wax (New)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "At this appointment 100% of all the hair around your vagina is removed in somewhat graceful swoop lol. Razor burn will be a thing of the past. To prep for your first brazilian you will need to grow your hair until they are about 1/4 of an inch (think a grain of rice) in length. This length is needed for the wax to be able to grip the hairs. Whatever you do DO NOT shave prior to your appointment. It's also a great idea to have a shower and exfoliate prior. but if you are in the middle of the day don not fret, we supply wipes prior. If you are worried about the pain please feel free to take an ibuprofen prior to your scheduled appointment!",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "6KLBDFCX3UMUOJUR2YJ42GAB",
+   "name": "Full Arm",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "Hair removal from your shoulder downward.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "AMJ42DSQYQVDSWGIEWHADOJM",
+   "name": "Face",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 35,
+   "desc": "Includes hair removal from your eyebrows, upper lip, cheeks, chin and nose if needed. Upon arrival your esthetician and you will have consultation to decide what is needed.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "D2GQC5PINEQUB4F5TGQOVOKH",
+   "name": "Eyebrow/Lip",
+   "cents": 2500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "A combination appointment for hair removal of both areas.",
+   "staff": [
+    "Jenna",
+    "Cheryl",
+    "Tamica",
+    "Chelsea",
+    "Sam",
+    "Lindsey",
+    "Jenique",
+    "Andrea",
+    "Libbey",
+    "Nicole",
+    "Kayla",
+    "Kaleigh",
+    "Ella"
+   ]
+  },
+  {
+   "id": "3D2GJYDHIO5D5R22FNQJP2WN",
+   "name": "Brow/Lip/Chin",
+   "cents": 3000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Combine all three areas in one appointment,",
+   "staff": [
+    "Jenna",
+    "Cheryl",
+    "Tamica",
+    "Sam",
+    "Jenique",
+    "Andrea",
+    "Libbey",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "FPIQ3STAFVVL5GYI36K54F4O",
+   "name": "Full Leg",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Hair removal from the top of thighs to the base of the ankles, front and back.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "GELH5RDACWFRCF2V4JC7HPRJ",
+   "name": "Full Body Wax",
+   "cents": 35000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 150,
+   "desc": "This 2.5 hour appointment will go from head to toe. Your esthetician will reach out to you to go over what's required for prep for this appointment. Price May vary as $350 is a base amount",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "EYFYZQFJNOO2HQAZBJ2QLSYO",
+   "name": "Lip/Chin",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "A combination of hair removal in both areas.",
+   "staff": [
+    "Jenna",
+    "Cheryl",
+    "Tamica",
+    "Sam",
+    "Jenique",
+    "Andrea",
+    "Nicole",
+    "Kayla",
+    "Ella"
+   ]
+  },
+  {
+   "id": "GU2UIYFTUKIVZOOM4RIREOYB",
+   "name": "Underarm",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 15,
+   "desc": "Hair removal of the under arm area.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "KRPKSPQMV444Q3VPBCGT3FMA",
+   "name": "Nose",
+   "cents": 1000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Removal of hair inside the nostrils.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "MIBA4WXY7SA6QCXWVNNW3NTH",
+   "name": "Back",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 30,
+   "desc": "Hair removal of back area.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "R657RPRRDEON4LI7MUC5WGIZ",
+   "name": "Chest",
+   "cents": 4000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal of chest area.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "RXQMLVHBNAB3DBCTVITUYP7O",
+   "name": "Bikini (Extended)",
+   "cents": 4500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from outside the panty line as well inside the panty line.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "WSF5CXILKIWMLYCOFZTNGPDA",
+   "name": "Bikini",
+   "cents": 3500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 20,
+   "desc": "Hair is removed from outside the panty line.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "N2ZMZAOKCCTE46VNMBHUO2NV",
+   "name": "Manzillian",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 40,
+   "desc": "This full monty appointment is 100% removal of hair in the groin and butt area. For best results make sure hair is 1/4 of an inch long (think grain of rice) in length. To prepare for the appointment the night before do a gentle exfoliation of area. If you have any questions please feel free to contact us.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "TBPKZ7TTTAQXBBHT57XYKLWE",
+   "name": "Vagacial",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "Treat your delicate area with a gentle exfoliating treatment. This service helps with ingrown hairs, scars, pigmentation, razor burn, and sensitivity. Amazing for post shaving, waxing and sugaring appointments. Recommended one week after hair removal appointments.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "TWBKUWKOWHTPOBXFDEFR3H77",
+   "name": "Manzillian (Extended)",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Includes your basic manzillian plus upper legs and cheeks.",
+   "staff": [
+    "Jenique",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "U5Z75GN75GEHGJUAOXK7K7P3",
+   "name": "Brow Wax",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Eyebrow waxing starts with a thin layer of warm wax applied to the hairs you wish to remove. A paper strip is placed over the top, the wax solidifies, and gentle pressure is applied to trap the individual hairs. Then, the strip is swiftly pulled away, pulling the hairs out directly from the root. And voila, beautifully shaped brows!",
+   "staff": [
+    "Jenna",
+    "Nichole",
+    "Tamica",
+    "Chelsea",
+    "Sam",
+    "Lindsey",
+    "Jenique",
+    "Andrea",
+    "Libbey",
+    "Cheryl",
+    "Nicole",
+    "Kayla",
+    "Kaleigh",
+    "Ella"
+   ]
+  },
+  {
+   "id": "YIIAOPGCV44WX4ROQMPZVDIP",
+   "name": "Half Leg",
+   "cents": 3500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from knee and down, front and back.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  },
+  {
+   "id": "ZYAZJHU7NGRUJ6QFMGAHPXXD",
+   "name": "Half Arm",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from elbow and down.",
+   "staff": [
+    "Sam",
+    "Jenique",
+    "Nicole",
+    "Ella"
+   ]
+  }
+ ],
+ "Sugaring": [
+  {
+   "id": "GHRPIY3ZHV5I4BNHJA3JM3CS",
+   "name": "Lip",
+   "cents": 1500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Hair removal above upper lip",
+   "staff": [
+    "Chrissy",
+    "Erika",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "IBXO6WHTB2LHH7MUCNQEFQRD",
+   "name": "Custom Sugaring",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Price varies please contact for more info. ",
+   "mins": 30,
+   "desc": "Experience our Custom Sugaring service, tailored to meet your specific needs. This gentle, all-natural hair removal technique is designed to be kind to your skin while delivering long-lasting smoothness. Book your personalized appointment today for a natural and effective solution to hair removal.",
+   "staff": [
+    "Alisson"
+   ]
+  },
+  {
+   "id": "4U44KXTMHT2Q5BKIIXX646I2",
+   "name": "Chest",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from the chest area.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "75KPCY6NAQOKBMJVMMKXGFT5",
+   "name": "Face",
+   "cents": 3500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Includes hair removal from your eyebrows, upper lip, cheeks, chin and nose if needed. Upon arrival your esthetician and you will have consultation to decide what is needed.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "46IETAWHSAYOXSPHP3VVDKYR",
+   "name": "Half Arm",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from elbow and downward.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "GFYFMDDBCJDFRCI7MAS44DZ2",
+   "name": "Brazilian Sugaring (New)",
+   "cents": 6500,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 30,
+   "desc": "At this appointment 100% of all the hair around your vagina is removed in somewhat graceful swoop lol. Razor burn will be a thing of the past. To prep for your first brazilian you will need to grow your hair until they are about 1/4 of an inch (think a grain of rice) in length. This length is needed for the sugar to be able to grip the hairs. Whatever you do DO NOT shave prior to your appointment. It's also a great idea to have a shower and exfoliate prior. but if you are in the middle of the day don not fret, we supply wipes prior. If you are worried about the pain please feel free to take an ibuprofen prior to your scheduled appointment!",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "JIGGQAZ3JMEUE3XMACTUKVEO",
+   "name": "Full Leg",
+   "cents": 7500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Hair removal from the top of thighs to the base of the ankles, front and back.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "L6WNDAIVJYSTIUA6Q2HBS6BL",
+   "name": "Full Arm",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "Hair removal from shoulder and downward.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "NPYAVFVE52N6HOOO7LYJSUBX",
+   "name": "Brazilian Sugaring (Repeat)",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": "",
+   "mins": 30,
+   "desc": "For repeat clients only. If you are a new client please book Brazilian (New) in our service menu.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "PNOOEIWZQKU7XJ5IGCFGBAOH",
+   "name": "Underarm",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Hair removal of under arm area.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Nicole",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "VZAOJM3V4WPCY5NUTZFPQ6HD",
+   "name": "Bikini",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair is removed from outside the panty line.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "WFFBP47ARCOZSSLYLCMZQOLS",
+   "name": "Half Leg",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Hair removal from knee and down, front and back.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  },
+  {
+   "id": "YDAAESMZPZPNUAZDO5NLMROW",
+   "name": "Back",
+   "cents": 7000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 45,
+   "desc": "Hair removal from the back area.",
+   "staff": [
+    "Erika",
+    "Chrissy",
+    "Alisson"
+   ]
+  }
+ ],
+ "Airbrush Tan & Teeth Whitening": [
+  {
+   "id": "R7GOWX5NYW7AYJCR22SPX3A6",
+   "name": "Airbrush Tan",
+   "cents": 5000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Single full body tan. Our all natural signature SunnaTan solution works with your skin to bring out your unique, natural pigments. We customize your tan to your specific skin type, tone and preference.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "GUQI452VJR7UXASFGJ46ARB5",
+   "name": "Tan with a Friend",
+   "cents": 9000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Friends who tan together, stay together! 2 full body tans using our all natural SunnaTan solution that works with your skin to bring out your unique, natural pigments. We customize your tan to your specific skin type, tone and preference. Tan with a friend and save $4 each.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "HTE7R5TF436GS7QQORE3GFOM",
+   "name": "4 Tan Punch Card",
+   "cents": 18000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Buy 4 head to toe full body airbrush tans and save $16.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "HSNUPLYTBXHJVUEI6TUTPPSD",
+   "name": "Half Body Tan",
+   "cents": 3500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "If you are in need of a glow from the waist up or waist down, we've got you covered.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "BU4QK44IEMRYYFL3BQXWLF6F",
+   "name": "SunnaSmile Super Gel Whitening",
+   "cents": 15000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Super Gel is a stronger, more intense whitening treatment. With a brush application, we do two back to back treatments. Feel free to message us for further clarification on this NEW treatment.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "B7GIKXYDQMCMF6RFJHBRWL44",
+   "name": "SunnaSmile In-Studio Whitening + Home Kit",
+   "cents": 19900,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "The best combo! Combine 1 in-studio SunnaSmile Teeth Whitening session and our SunnaSmile Take Home kit for the ultimate results and save $29.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "RLSGUEJGXHAVHF2FX4S5BN3Y",
+   "name": "Express Tan",
+   "cents": 5500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Express Tan is the perfected SunnaTan all natural solution that allows you to shower 4-5 hours after you have been airbrushed. Perfect if you aren't a fan of having to wait the full 12-24 hours before you can shower or if you are pressed for time. The NEW clear solution express tan also is available upon request.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "MJ7ACCOQFI4FCR3Y7L7BSX6L",
+   "name": "Airbrush Tan & Teeth Whitening",
+   "cents": 13500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Nothing goes better with tanned skin, than white teeth! Book this combo to combine a signature SunnaTan airbrush tan and SunnaSmile in-studio whitening session. In an hour we will whiten your smile 2-6 shades and bronze you to perfection! Save $10 when you pair these two services together.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "PGMP2RIPBKTJ67B3IWRHM2UX",
+   "name": "SunnaSmile Teeth Whitening",
+   "cents": 9500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "SunnaSmile Professional Whitening treatment is a 20 minute LED-activated teeth whitening system. The SunnaSmile session is an effective, enamel-safe, low-sensitivity, convenient option to get your teeth 2-6 shades whiter.",
+   "staff": [
+    "Chanlie"
+   ]
+  },
+  {
+   "id": "WKPSQXZ6AS3A2Q3RZBCSUOU7",
+   "name": "Face Tan",
+   "cents": 2000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "A quick spray on the face, neck and chest with our signature SunnaTan all natural solution.",
+   "staff": [
+    "Chanlie"
+   ]
+  }
+ ],
+ "Makeup": [
+  {
+   "id": "O2OD3GT4NEILLJ5BPIPJKEI3",
+   "name": "Makeup Consultation",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 15,
+   "desc": "Sit down with one of our artists for a one on one consultation to discuss the look you are wanting to achieve.",
+   "staff": [
+    "Sam"
+   ]
+  }
+ ],
+ "Soul Healing": [
+  {
+   "id": "OYXJ4HYX2QQ364W5HV5FUKXZ",
+   "name": "Soul-Led Healing Session",
+   "cents": 11100,
+   "ptype": "fixed",
+   "pdesc": "February Promo $88 ",
+   "mins": 60,
+   "desc": "A Soul-Led Healing Session is a deeply restorative and transformational experience that clears energetic blockages, releases negativity, and realigns you with your highest self. Through a combination of energy work, sound healing, and intuitive guidance, this session brings profound emotional, mental and spiritual renewal. This is for anyone seeking deep emotional clarity, spiritual renewal and energetic balance. Whether you need to release emotional wounds, strengthen your intuition, or realign with your highest self, this experience will leave you feeling lighter, clearer, and more empowered.",
+   "staff": [
+    "Kim"
+   ]
+  }
+ ],
+ "Other": [
+  {
+   "id": "5XRAUOF54JXB35BZY3MWN6BC",
+   "name": "Non-Surgical Face Lift",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 60,
+   "desc": "Achieve a more youthful appearance without surgery! Our anti-aging facial uses Radio Frequency energy and LED Therapy to stimulate collagen production and tighten the skin's elastin fibers. Radio Frequency is a proven and affordable solution to address fine lines, wrinkles, and sagging skin. For optimal results, a minimum of 6-12 sessions is recommended depending on individual factors such as age, lifestyle, and genetics",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "6QR4WZOJQI6G2O5AIAQU7VWK",
+   "name": "Cellulite Treatment",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 60,
+   "desc": "Our cellulite treatment focuses on loosening the connective tissues and reducing the subcutaneous fat cells that cause the dimpling of the skin. We use a combination of treatments to elongate connective tissue and break up fatty deposits. This results in a smoother, softer appearance. 6-12 sessions are recommended.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "4HRHSUKRRO7NJC4NFORN6HKI",
+   "name": "Detox Sauna Bag Treatment (60 mins)",
+   "cents": 10000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "Experience deep therapeutic heat with our state-of-the-art sauna blanket, utilizing infrared rays to promote relaxation. Our clients can simply unwind while their body works to produce sweat, pump blood, and burn calories. Just 60 minutes in our sauna blanket is equivalent to roughly 30 minutes of cardiovascular exercise, making it the ultimate complement to any fat or cellulite reduction treatment.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "C7YGOU74LXUSZVEV7XIKU3I6",
+   "name": "Neck & Jawline Treatment",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 45,
+   "desc": "Our innovative approach to fat reduction and facial contouring combines Radio Frequency and Vacuum Therapy. Our non-invasive treatments effectively break down stubborn fat, reduce puffiness, and tighten and tone the jawline. You can achieve your desired results with a short series of 6-12 sessions, tailored to your individual needs.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "M46KCSGSTSC3XMJ6FEJ53BZ5",
+   "name": "Body Contouring Consultation",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Let's chat about your body goals and what it is you are wanting us help you to achieve. In this free no obligation appointment we discuss how our treatments work as well as pricing info!",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "AY523V5BTYYW34LZFZZFFYNN",
+   "name": "Booty Lift",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 90,
+   "desc": "Our nonsurgical butt lift uses a patented technique and Colombian Vacuum therapy to lift and build your booty. Not only that, this treatment breaks down stubborn cellulite, improves circulation, and promotes lymphatic drainage. With at least 6-8 sessions recommended, this treatment should be scheduled 1-2 times per week and paired with targeted glute-focused exercises for maximum results. Try it out and transform your booty today!",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "FDYUH4KKXRXVQ5YSGATE4XZU",
+   "name": "Relaxation Massage (Full Body)",
+   "cents": 8500,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 60,
+   "desc": "In this one hour appointment let your body destress and set your mind at ease. Please note this service is not covered by insurance benefits.",
+   "staff": [
+    "Ashley",
+    "Nicole"
+   ]
+  },
+  {
+   "id": "SHDQJAIQTEDSFJK637PH5SI5",
+   "name": "Lympathic Massage (2 areas)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 90,
+   "desc": "Say goodbye to stubborn fat deposits with our customized fat reduction treatment. Targeting pinch-able fat in areas including the abdomen, flanks, back, arms, legs, and hip our treatment is tailored to suit your needs. Results are achieved through a minimum of 6-12 sessions depending on your personal requirements. Our team uses a combination of radio frequency, cavitation, vacuum therapy, led therapy and lympathic drainage techniques to achieve optimal results based on your needs.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "TBW6VLKVWHP5UL62AMFZ3FFI",
+   "name": "Lymphatic Massage (1 area)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 60,
+   "desc": "Say goodbye to stubborn fat deposits with our customized fat reduction treatment. Targeting pinch-able fat in areas including the abdomen, flanks, back, arms, legs, and hip our treatment is tailored to suit your needs. Results are achieved through a minimum of 6-12 sessions depending on your personal requirements. Our team uses a combination of radio frequency, cavitation, vacuum therapy, led therapy and lympathic drainage techniques to achieve optimal results based on your needs.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "UHWUMBQUEZZLHZO6BHAFLBGU",
+   "name": "Lymphatic Massage (3 areas)",
+   "cents": 0,
+   "ptype": "fixed",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 120,
+   "desc": "Say goodbye to stubborn fat deposits with our customized fat reduction treatment. Targeting pinch-able fat in areas including the abdomen, flanks, back, arms, legs, and hip our treatment is tailored to suit your needs. Results are achieved through a minimum of 6-12 sessions depending on your personal requirements. Our team uses a combination of radio frequency, cavitation, vacuum therapy, led therapy and lympathic drainage techniques to achieve optimal results based on your needs.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "WJDCH3NTU2CQ33JWDJFXHESK",
+   "name": "Skin Tightening (1 area)",
+   "cents": 0,
+   "ptype": "variable",
+   "pdesc": "Please book a free consultation to discuss what goals you are wanting to achieve as well as pricing info.",
+   "mins": 60,
+   "desc": "By delivering controlled heat to the tissue below the surface, Radio Frequency stimulates collagen production and tightens elastin fibers, leading to tighter, firmer skin. Perfect for addressing postpartum laxity, and skin aging - or for achieving toned, radiant results. With a recommended course of 6-12 sessions, based on your unique needs. Other modalities may be used during each session including, led therapy, and lympathic drainage techniques.",
+   "staff": [
+    "Erin"
+   ]
+  },
+  {
+   "id": "YT2UAKXJNF4UFB2D3LLTF7HI",
+   "name": "Detox Sauna Bag Treatment (30 mins)",
+   "cents": 6000,
+   "ptype": "fixed",
+   "pdesc": null,
+   "mins": 30,
+   "desc": "Experience deep therapeutic heat with our state-of-the-art sauna blanket, utilizing infrared rays to promote relaxation. Our clients can simply unwind while their body works to produce sweat, pump blood, and burn calories. Just 30 minutes in our sauna blanket is equivalent to roughly 15 minutes of cardiovascular exercise, making it the ultimate complement to any fat or cellulite reduction treatment.",
+   "staff": [
+    "Erin"
+   ]
+  }
+ ]
+}

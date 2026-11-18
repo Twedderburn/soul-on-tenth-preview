@@ -1,0 +1,242 @@
+[
+ {
+  "first": "Alisson",
+  "cats": {
+   "Sugaring": 13
+  }
+ },
+ {
+  "first": "Amy",
+  "cats": {
+   "Nails": 10,
+   "Pedicures": 3,
+   "Facials": 1
+  }
+ },
+ {
+  "first": "Andrea",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Hair Extentions": 7,
+   "Waxing": 4,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Angela",
+  "cats": {
+   "Nails": 8
+  }
+ },
+ {
+  "first": "Ashley",
+  "cats": {
+   "Lashes": 30,
+   "Facials": 16,
+   "Other": 1
+  }
+ },
+ {
+  "first": "Chanlie",
+  "cats": {
+   "Airbrush Tan & Teeth Whitening": 10
+  }
+ },
+ {
+  "first": "Chelsea",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Hair Extentions": 7,
+   "Waxing": 2,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Cheryl",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Waxing": 4,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Chrissy",
+  "cats": {
+   "Sugaring": 12,
+   "Pedicures": 3,
+   "Nails": 2
+  }
+ },
+ {
+  "first": "Ella",
+  "cats": {
+   "Pedicures": 2,
+   "Lashes": 3,
+   "Nails": 2,
+   "Waxing": 14,
+   "Facials": 2,
+   "Brows": 3
+  }
+ },
+ {
+  "first": "Erika",
+  "cats": {
+   "Sugaring": 12,
+   "Pedicures": 3,
+   "Nails": 2
+  }
+ },
+ {
+  "first": "Erin",
+  "cats": {
+   "Other": 11
+  }
+ },
+ {
+  "first": "Jenique",
+  "cats": {
+   "Nails": 4,
+   "Pedicures": 3,
+   "Lashes": 2,
+   "Waxing": 21,
+   "Facials": 17,
+   "Brows": 6
+  }
+ },
+ {
+  "first": "Jenna",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Hair Extentions": 7,
+   "Waxing": 4,
+   "Haircuts": 8,
+   "Brows": 1,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Kaleigh",
+  "cats": {
+   "Colouring/Blonding": 14,
+   "Styling": 2,
+   "Waxing": 2,
+   "Haircuts": 6
+  }
+ },
+ {
+  "first": "Kayla",
+  "cats": {
+   "Lashes": 21,
+   "Styling": 4,
+   "Colouring/Blonding": 14,
+   "Waxing": 3,
+   "Haircuts": 7,
+   "Brows": 2,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Kim",
+  "cats": {
+   "Soul Healing": 1
+  }
+ },
+ {
+  "first": "Libbey",
+  "cats": {
+   "Styling": 4,
+   "Colouring/Blonding": 12,
+   "Hair Extentions": 6,
+   "Waxing": 3,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Lindsey",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Waxing": 2,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Lizanne",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Hair Extentions": 7,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4
+  }
+ },
+ {
+  "first": "Mackenna",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Haircuts": 5
+  }
+ },
+ {
+  "first": "Nichole",
+  "cats": {
+   "Nails": 9,
+   "Pedicures": 3,
+   "Lashes": 3,
+   "Brows": 3,
+   "Waxing": 1
+  }
+ },
+ {
+  "first": "Nicole",
+  "cats": {
+   "Pedicures": 3,
+   "Lashes": 3,
+   "Nails": 2,
+   "Waxing": 21,
+   "Facials": 17,
+   "Brows": 3,
+   "Other": 1,
+   "Sugaring": 1
+  }
+ },
+ {
+  "first": "Sam",
+  "cats": {
+   "Nails": 11,
+   "Lashes": 6,
+   "Waxing": 19,
+   "Brows": 5,
+   "Makeup": 1
+  }
+ },
+ {
+  "first": "Tamica",
+  "cats": {
+   "Styling": 5,
+   "Colouring/Blonding": 14,
+   "Waxing": 4,
+   "Haircuts": 8,
+   "In-Salon Hair Treatments": 4,
+   "Brows": 1
+  }
+ },
+ {
+  "first": "Taylor",
+  "cats": {
+   "Colouring/Blonding": 14,
+   "Styling": 2,
+   "Haircuts": 6
+  }
+ }
+]
